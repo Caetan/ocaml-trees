@@ -1,3 +1,6 @@
+# Ocaml basic trees implementations 
+
+
 Developed by Caetán Tojeiro Carpente (caetantojeiro95@gmail.com)
 
 
@@ -55,7 +58,7 @@ In addition, there are implemented two functions to convert one tree type in the
 
 **********************************************************************
 
-Copyright (C) 2017  Caetán Tojeiro Carpente
+Copyleft (C) 2017  Caetán Tojeiro Carpente
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
